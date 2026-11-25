@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Metadata Reload",
+  "version": "1.0",
+  "description": "Refreshes metadata by DOI for selected Zotero items from the item context menu.",
+  "applications": {
+    "zotero": {
+      "id": "metadata-reload@zotero-plugin.local",
+      "update_url": "https://localhost/metadata-reload/updates.json",
+      "strict_min_version": "8.0",
+      "strict_max_version": "10.0.*"
+    }
+  }
+}

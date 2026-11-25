@@ -6,7 +6,7 @@ Refresh the title, authors, publication date, and other citation details of exis
 
 Metadata Reload supports Zotero Desktop 8.0 through 10.0.x.
 
-1. Download `metadata-reload-1.0.xpi` from [Releases](../../releases) or build it from source.
+1. Download `metadata-reload-1.0.xpi` from the [v1.0 release](https://github.com/PanamaHitek/Zotero-Metadata-Reload/releases/tag/v1.0) or build it from source.
 2. Open **Tools → Plugins** in Zotero.
 3. Drag the `.xpi` into the Plugins window and confirm the installation.
 
